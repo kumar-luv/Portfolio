@@ -30,7 +30,7 @@ export const data=[
     },
     {
         id:4,
-        name:"Rondam gif",
+        name:"Random gif",
         image:Random,
         github:"https://github.com/kumar-luv/random-gif-starter",
         live:"https://random-gif-starter-rho.vercel.app/",
