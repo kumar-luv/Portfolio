@@ -12,14 +12,14 @@ export const data=[
         name:"Video Streaming App",
         image:Video,
         github:"https://github.com/kumar-luv/Youtube-clone",
-        live:"https://video-streaming-app-beryl.vercel.app/",
+        live:"https://streamify8.netlify.app/",
     },
     {
         id:2,
         name:"NetflixGPT",
         image:NetflixGPT,
         github:"https://github.com/kumar-luv/Netflix-Clone",
-        live:"https://netflixgpt-seven.vercel.app/",
+        live:"https://netflix-gpt-eosin-chi.vercel.app/",
     },
     {
         id:3,
